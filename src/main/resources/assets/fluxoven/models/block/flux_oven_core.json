@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "fluxoven:block/oven_core_side",
+    "bottom": "fluxoven:block/oven_core_side",
+    "side": "fluxoven:block/oven_core_side",
+    "front": "fluxoven:block/oven_core_front"
+  }
+}

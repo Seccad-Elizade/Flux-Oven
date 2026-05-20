@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IJI",
+    "IRI",
+    "IJI"
+  ],
+  "key": {
+    "J": { "item": "minecraft:lime_dye" },
+    "I": { "item": "minecraft:iron_ingot" },
+    "R": { "item": "minecraft:redstone_torch" }
+  },
+  "result": {
+    "item": "fluxoven:efficiency_upgrade",
+    "count": 1
+  }
+}

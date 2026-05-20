@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ISI",
+    "RRR",
+    "ISI"
+  ],
+  "key": {
+    "I": { "item": "minecraft:iron_ingot" },
+    "S": { "item": "minecraft:stick" },
+    "R": { "item": "minecraft:redstone" }
+  },
+  "result": {
+    "item": "fluxoven:oven_pipe",
+    "count": 8
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "multipart": [
+    {
+      "apply": { "model": "fluxoven:block/pipe_core" }
+    },
+    { "when": { "north": "true" }, "apply": { "model": "fluxoven:block/pipe_arm" } },
+    { "when": { "east": "true" },  "apply": { "model": "fluxoven:block/pipe_arm", "y": 90 } },
+    { "when": { "south": "true" }, "apply": { "model": "fluxoven:block/pipe_arm", "y": 180 } },
+    { "when": { "west": "true" },  "apply": { "model": "fluxoven:block/pipe_arm", "y": 270 } },
+    { "when": { "up": "true" },    "apply": { "model": "fluxoven:block/pipe_arm_vertical" } },
+    { "when": { "down": "true" },  "apply": { "model": "fluxoven:block/pipe_arm_vertical", "x": 180 } }
+  ]
+}

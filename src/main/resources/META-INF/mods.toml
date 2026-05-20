@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT"
+
+[[mods]]
+modId="fluxoven"
+version="1.0.0"
+displayName="Flux Oven"
+authors="Seccad Elizade"
+description='''
+An advanced energy-driven multiblock smelting oven that processes resources across a synchronized network of modular thermal plates.
+
+Features centralized upgrade bays, smart item NBT retention, and expandable pipeline logistics.
+'''
+
+[[dependencies.fluxoven]]
+modId="forge"
+mandatory=true
+versionRange="[36,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.fluxoven]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.16.5,1.17)"
+ordering="NONE"
+side="BOTH"
