@@ -1,0 +1,26 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "front": "fluxoven:block/pipe_front",
+    "back": "fluxoven:block/pipe_back",
+    "left": "fluxoven:block/pipe_left",
+    "right": "fluxoven:block/pipe_right",
+    "top": "fluxoven:block/pipe_top",
+    "bottom": "fluxoven:block/pipe_bottom",
+    "particle": "fluxoven:block/pipe_front"
+  },
+  "elements": [
+    {
+      "from": [5, 5, 5],
+      "to": [11, 11, 11],
+      "faces": {
+        "north": { "uv": [0, 0, 8, 8], "texture": "#front" },
+        "south": { "uv": [0, 0, 8, 8], "texture": "#back" },
+        "west":  { "uv": [0, 0, 8, 8], "texture": "#left" },
+        "east":  { "uv": [0, 0, 8, 8], "texture": "#right" },
+        "up":    { "uv": [0, 0, 8, 8], "texture": "#top" },
+        "down":  { "uv": [0, 0, 8, 8], "texture": "#bottom" }
+      }
+    }
+  ]
+}

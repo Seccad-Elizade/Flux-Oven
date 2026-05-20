@@ -1,0 +1,38 @@
+{
+  "itemGroup.flux_oven_tab": "Flux Oven Technology",
+
+  "block.fluxoven.oven_plate": "Oven Plate",
+  "item.fluxoven.oven_plate": "Oven Plate",
+  "tile.fluxoven.oven_plate": "Oven Plate",
+
+  "block.fluxoven.flux_oven_core": "Flux Oven Core",
+  "item.fluxoven.flux_oven_core": "Flux Oven Core",
+  "container.fluxoven.core": "Flux Oven Management System",
+
+  "block.fluxoven.oven_pipe": "Flux Transport Pipe",
+  "item.fluxoven.oven_pipe": "Flux Transport Pipe",
+
+  "item.fluxoven.flux_mechanism": "Flux Mechanism",
+
+  "item.fluxoven.chunk_loader_upgrade": "Dimensional Anchor Upgrade",
+  "item.fluxoven.speed_upgrade": "Speed Upgrade",
+  "item.fluxoven.efficiency_upgrade": "Economy Upgrade",
+  "item.fluxoven.connection_upgrade": "Connection Upgrade",
+
+  "tooltip.fluxoven.chunk_loader_upgrade": "§7Engages the Dimensional Anchor. §d(Keeps multiblock active across dimensions)",
+  "tooltip.fluxoven.speed_upgrade": "§7Boosts smelting speed. §c(+5.0% per upgrade, Max +320%)",
+  "tooltip.fluxoven.efficiency_upgrade": "§7Reduces FE/t consumption. §a(-0.62% per upgrade, Max -39.68%)",
+  "tooltip.fluxoven.connection_upgrade": "§7Expands multiblock management radius. §b(+2 plates per upgrade, Max 137)",
+
+  "gui.fluxoven.tab.upgrades": "System Infrastructure",
+  "gui.fluxoven.tab.input": "Input Stream",
+  "gui.fluxoven.tab.output": "Output Stream",
+  "gui.fluxoven.tab.recovery": "Recovery Buffer",
+
+  "gui.fluxoven.energy.usage": "Consumption: %d FE/t",
+  "gui.fluxoven.page": "Page %d",
+  "gui.fluxoven.connected": "Active Plates: %d",
+  "gui.fluxoven.limit": "Plate Limit: %d",
+  "gui.fluxoven.status.anchored": "Status: DIMENSIONAL ANCHOR ACTIVE",
+  "gui.fluxoven.status.local": "Status: LOCAL ONLY"
+}
