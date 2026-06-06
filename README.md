@@ -16,12 +16,12 @@
 | **26.1.2** | Forge          | 📅 Planned    | Target Migration Version  |
 | **26.1.1** | Forge          | 📅 Planned    | High-Priority Legacy Port |
 | **26.1** | NeoForge       | 📅 Planned    | Modern Platform Port      |
-| **1.21.11** | Forge/NeoForge | 📅 Planned    | Next-Gen Integration      |
-| **1.21.10** | Forge          | 📅 Planned    | Legacy LTS Port           |
-| **1.21.9** | Forge          | 📅 Planned    | -                         |
-| **1.21.8** | Forge          | 📅 Planned    | Classic Integration Port  |
-| **1.21.7** | Forge          | 📅 Planned    | Target Migration Version  |
-| **1.21.5** | Forge          | 📅 Planned    | High-Priority Legacy Port |
+| **1.21.11** | NeoForge | 📅 Planned    | Next-Gen Integration      |
+| **1.21.10** | NeoForge          | 📅 Planned    | Legacy LTS Port           |
+| **1.21.9** | NeoForge          | 📅 Planned    | -                         |
+| **1.21.8** | NeoForge          | 📅 Planned    | Classic Integration Port  |
+| **1.21.7** | NeoForge          | 📅 Planned    | Target Migration Version  |
+| **1.21.5** | NeoForge          | 📅 Planned    | High-Priority Legacy Port |
 | **1.21.4** | NeoForge       | 📅 Planned    | Modern Platform Port      |
 | **1.21.1** | Forge/NeoForge | 📅 Planned    | Next-Gen Integration      |
 | **1.21** | Forge          | 📅 Planned    | Target Migration Version  |
